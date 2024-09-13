@@ -1,6 +1,6 @@
 # Welcome to My Portfolio
 
-Hi, I'm **JJ**, a passionate developer specializing in **[skills]**. Below, you'll find some of my featured projects.
+Hi, I'm **JJ**, a passionate developer specialising in **[skills]**. Below, you'll find some of my featured projects.
 [This is a brain splurge of and test of what I remember of mark down. Not a template (for anyone looking at first or second versions]
 ---
 
